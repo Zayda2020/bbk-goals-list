@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zayda2020/bbk-goals-list.git/static/css/main.f3916e40.chunk.css",
+    "main.js": "/Zayda2020/bbk-goals-list.git/static/js/main.7de5cd11.chunk.js",
+    "main.js.map": "/Zayda2020/bbk-goals-list.git/static/js/main.7de5cd11.chunk.js.map",
+    "runtime-main.js": "/Zayda2020/bbk-goals-list.git/static/js/runtime-main.1960bfa7.js",
+    "runtime-main.js.map": "/Zayda2020/bbk-goals-list.git/static/js/runtime-main.1960bfa7.js.map",
+    "static/js/2.250756d0.chunk.js": "/Zayda2020/bbk-goals-list.git/static/js/2.250756d0.chunk.js",
+    "static/js/2.250756d0.chunk.js.map": "/Zayda2020/bbk-goals-list.git/static/js/2.250756d0.chunk.js.map",
+    "static/js/3.a1b74f02.chunk.js": "/Zayda2020/bbk-goals-list.git/static/js/3.a1b74f02.chunk.js",
+    "static/js/3.a1b74f02.chunk.js.map": "/Zayda2020/bbk-goals-list.git/static/js/3.a1b74f02.chunk.js.map",
+    "index.html": "/Zayda2020/bbk-goals-list.git/index.html",
+    "static/css/main.f3916e40.chunk.css.map": "/Zayda2020/bbk-goals-list.git/static/css/main.f3916e40.chunk.css.map",
+    "static/js/2.250756d0.chunk.js.LICENSE.txt": "/Zayda2020/bbk-goals-list.git/static/js/2.250756d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1960bfa7.js",
+    "static/js/2.250756d0.chunk.js",
+    "static/css/main.f3916e40.chunk.css",
+    "static/js/main.7de5cd11.chunk.js"
+  ]
+}
