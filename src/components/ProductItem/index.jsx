@@ -1,7 +1,6 @@
 import React,{useState} from "react"
 import Button from "../Button";
 
-import "./styles.css"
 
 const ProductItem = props => {
   const [quantityAdded, setQuantityAdded] = useState(1);
